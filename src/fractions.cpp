@@ -3,7 +3,7 @@
 #include <cstdlib>
 #include <sstream>
 #include <string>
-#include "fraction.h"
+#include "fractions.h"
 using namespace std;
 
 void fraction::reduceFraction() const {
